@@ -7,7 +7,7 @@
 [![PyPI - Status](https://img.shields.io/pypi/status/labfunctions)](https://pypi.org/project/labfunctions/)
 [![Docker last](https://img.shields.io/docker/v/nuxion/labfunctions/0.7.0)](https://hub.docker.com/r/nuxion/labfunctions/tags)
 [![codecov](https://codecov.io/gh/nuxion/labfunctions/branch/main/graph/badge.svg?token=F025Y1BF9U)](https://codecov.io/gh/nuxion/labfunctions)
-
+[![Gitter](https://badges.gitter.im/labfunctions/community.svg)](https://gitter.im/labfunctions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## :books: Description 
 
