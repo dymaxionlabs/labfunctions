@@ -157,6 +157,8 @@ a safe, welcoming space for collaboration, and contributors are expected to
 adhere to the [Contributor Covenant](http://contributor-covenant.org) code of
 conduct.
 
+The current project roadmap is available at [ROADMAP.md](ROADMAP.md).
+
 
 ## License
 
